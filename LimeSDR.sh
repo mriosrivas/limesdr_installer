@@ -54,4 +54,4 @@ sudo usermod -a -G root $USER
 wget https://raw.githubusercontent.com/pothosware/PothosDemos/master/simple_fm_demod/simple_fm_demod.pothos
 
 #run the design GUI -- there should also be a menu shortcut
-PothosGui
+#PothosGui
